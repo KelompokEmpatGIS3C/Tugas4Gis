@@ -1,0 +1,19 @@
+import folium 
+
+m = folium.Map(
+location=[3.597031, 98.678513],
+zoom_start=12,
+tiles='Stamen Terrain')
+
+tooltip = 'Click me!'
+
+folium.Marker([-6.203189, 106.846839], popup='<i>Tugu Proklamasi</i>').add_to(m)
+folium.Marker([-6.190242, 106.838724], popup='<i>Taman Ismail Marzuki</i>').add_to(m)
+folium.Marker([-6.191407, 106.838621], popup='<i>Ibis Budget Hotels</i>').add_to(m)
+folium.Marker([-6.190051, 106.840759], popup='<i>Makam Habib Abdurrahman Al Habsyi</i>').add_to(m)
+folium.Marker([-6.188764, 106.839719], popup='<i>TIM XXI</i>').add_to(m)
+folium.Marker([-6.189337, 106.837872], popup='<i>Holland Bakery</i>').add_to(m)
+folium.Marker([-6.195175, 106.823081], popup='<i>Bundaran Hotel Indonesia</i>').add_to(m)
+folium.Marker([-6.194954, 106.823065], popup='<i>Monumen Selamat Datang</i>').add_to(m)
+folium.Marker([-6.196270, 106.823889], popup='<i>Swimming Pool - Mandarin Hotel, Jakarta</i>').add_to(m)
+folium.Marker([-6.199610, 106.832275], popup='<i>Lapangan Merdeka</i>').add_to(m)
