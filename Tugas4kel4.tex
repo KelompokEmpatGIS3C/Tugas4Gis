@@ -1,9 +1,10 @@
-import folium 
+import folium
 
 m = folium.Map(
-location=[3.597031, 98.678513],
-zoom_start=12,
-tiles='Stamen Terrain')
+    location=[-6.225014, 106.900447],
+    zoom_start=12,
+    tiles='Stamen Terrain'
+)
 
 tooltip = 'Click me!'
 
@@ -17,3 +18,13 @@ folium.Marker([-6.195175, 106.823081], popup='<i>Bundaran Hotel Indonesia</i>').
 folium.Marker([-6.194954, 106.823065], popup='<i>Monumen Selamat Datang</i>').add_to(m)
 folium.Marker([-6.196270, 106.823889], popup='<i>Swimming Pool - Mandarin Hotel, Jakarta</i>').add_to(m)
 folium.Marker([-6.199610, 106.832275], popup='<i>Lapangan Merdeka</i>').add_to(m)
+folium.Marker([-6.231707, 106.909807], popup='<i>Rumah Sakit Duren Sawit<i>').add_to(m)
+folium.Marker([-6.231944, 106.908660], popup='<i>Warung Bu Tin<i>').add_to(m)
+folium.Marker([-6.225864, 106.898880], popup='<i>PT. INDOPSIKO INDONESIA<i>').add_to(m)
+folium.Marker([-6.195030, 106.878456], popup='<i>Gedung Dewi Sartika, Universitas Negeri Jakarta<i>').add_to(m)
+folium.Marker([-6.198222, 106.877793], popup='<i>Lapangan Golf Rawamangun<i>').add_to(m)
+folium.Marker([-6.194831, 106.912626], popup='<i>PT. Lativi Media Karya (tvOne)<i>').add_to(m)
+folium.Marker([-6.302446, 106.895155], popup='<i>Taman Mini Indonesia Indah<i>').add_to(m)
+folium.Marker([-6.312821, 106.861838], popup='<i>Mall Graha Cijantung<i>').add_to(m)
+folium.Marker([-6.157329, 106.908704], popup='<i>Mall Kelapa Gading<i>').add_to(m)
+folium.Marker([-6.328956, 106.890288], popup='<i>Kampung Artis<i>').add_to(m)
