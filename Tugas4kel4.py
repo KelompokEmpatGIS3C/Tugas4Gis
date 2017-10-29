@@ -1,26 +1,17 @@
 #!/bin/python
 
 
-
-
 import folium
 
 
-
-m = folium.Map(
-    
-location=[-6.21462, 106.84513],
-    
-zoom_start=12,
-    
+m = folium.Map(   
+location=[-6.21462, 106.84513],   
+zoom_start=12,   
 tiles='Stamen Terrain'
-
 )
 
 
-
 tooltip = 'Click me!'
-
 
 
 folium.Marker([-6.203189, 106.846839], popup='<i>Tugu Proklamasi</i>').add_to(m)
@@ -91,36 +82,45 @@ folium.Marker([-6.137195, 106.812972], popup='<i>Museum Bank Indonesia</i>').add
 
 folium.Marker([-6.325301, 106.852310], popup='<i>Rumah Mertua</i>').add_to(m)
 
-
 folium.Marker([-6.122179, 106.845575], popup='<i>Ancol Mansion</i>').add_to(m)
+
 folium.Marker([-6.118413, 106.860229], popup='<i>Pantai Karnaval Ancol</i>').add_to(m)
+
 folium.Marker([-6.110882, 106.881126], popup='<i>OCBC NISP Tanjung Priok</i>').add_to(m)
+
 folium.Marker([-6.111131, 106.883182], popup='<i>BRI UNIT TONGKOL</i>').add_to(m)
+
 folium.Marker([-6.111200, 106.881655], popup='<i>BNI TANJUNG PRIOK</i>').add_to(m)
+
 folium.Marker([-6.111504, 106.881694], popup='<i>Bank Mandiri KCP Jakarta Tanjungpriok</i>').add_to(m)
+
 folium.Marker([-6.109490, 106.884260], popup='<i>Balai Besar Karantina Pertanian Tanjungpriok</i>').add_to(m)
+
 folium.Marker([-6.099428, 106.877744], popup='<i>DITPOLAIR POLDA METRO JAYA</i>').add_to(m)
+
 folium.Marker([-6.099072, 106.877501], popup='<i>Pusdik Polair</i>').add_to(m)
+
 folium.Marker([-6.106752, 106.881115], popup='<i>Otoritas Pelabuhan Tj. Priok</i>').add_to(m)
 
-
-import folium
-
-m = folium.Map (
-    location=[-6.223564, 106.910794], 
-    zoom_start=12,
-    tiles='Stamen Terrain'
-)
-
-tooltip = 'Click me!'
-
 folium.Marker([-6.186491, 106.834086], popup='<i>Super indo marakas </i>').add_to(m)
+
 folium.Marker([-6.190285, 106.838792], popup='<i>Taman Ismail Marzuki</i>').add_to(m)
+
 folium.Marker([-6.192381, 106.818611], popup='<i>Kb.Kacang</i>').add_to(m)
+
 folium.Marker([-6.178431, 106.811987], popup='<i>Cideng</i>').add_to(m)
+
 folium.Marker([-6.183848, 106.836464], popup='<i>Kwitang</i>').add_to(m)
+
 folium.Marker([-6.203986, 106.848823], popup='<i>Pegangsaan</i>').add_to(m)
+
 folium.Marker([-6.194941, 106.845219], popup='<i>Kenari</i>').add_to(m)
+
 folium.Marker([-6.261920, 106.831258], popup='<i>Kalibata</i>').add_to(m)
+
 folium.Marker([-6.223247, 106.911958], popup='<i>12</i>').add_to(m)
+
 folium.Marker([-6.223487, 106.910783], popup='<i>Jl.Duren Sawit Indah Bblok A7 No.4</i>').add_to(m)
+
+
+ m
