@@ -144,4 +144,24 @@ folium.Marker([-6.264675, 106.797456], popup='<i> PT. Billboard</i>').add_to(m)
 
 
 
- 
+folium.Marker([-6.097616, 106.801632], popup='<i>Tongkang GTS</i>').add_to(m)
+
+folium.Marker([-6.098037, 106.800329], popup='<i>Kedai Kopi Muara Baru</i>').add_to(m)
+
+folium.Marker([-6.098209, 106.799361], popup='<i>PT. Proskuneo Kadarusman</i>').add_to(m)
+
+folium.Marker([-6.098634, 106.800419], popup='<i>Lena Cell </i>').add_to(m)
+
+folium.Marker([-6.098951, 106.800489], popup='<i>S Gunawan Cell</i>').add_to(m)
+
+folium.Marker([-6.098949, 106.800395], popup='<i>PT. MEKAR SEA WORLD</i>').add_to(m)
+
+folium.Marker([-6.098961, 106.799286], popup='<i>Toko Anugerah Fishery</i>').add_to(m)
+
+folium.Marker([-6.099894, 106.800724], popup='<i>Mie Ayam Pakdhe Gayout</i>').add_to(m)
+
+folium.Marker([-6.100579, 106.800201], popup='<i>Perusahaan Umum Perikanan Indonesia</i>').add_to(m)
+
+folium.Marker([-6.100623, 106.799933], popup='<i>Bank Bri</i>').add_to(m)
+
+folium.Marker([-6.100795, 106.799901], popup='<i>BNI MUARA BARU</i>').add_to(m)
