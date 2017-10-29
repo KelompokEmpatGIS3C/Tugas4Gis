@@ -184,5 +184,22 @@ folium.Marker([-6.210377, 106.800043], popup='<i>Gedung MPR/DPR RI</i>').add_to(
 
 folium.Marker([-6.220368, 106.806315], popup='<i>Istora Senayan</i>').add_to(m)
 
+folium.Marker([-6.243468, 106.845440], popup='<i>2</i>').add_to(m)
 
-m
+folium.Marker([-6.243937, 106.845107], popup='<i>Jakarta Selatan</i>').add_to(m)
+
+folium.Marker([-6.245643, 106.844485], popup='<i>Jl.Pancoran Buntu 1 No.30</i>').add_to(m)
+
+folium.Marker([-6.246128, 106.847403], popup='<i>Gudang Sarinah</i>').add_to(m)
+
+folium.Marker([-6.246294, 106.846299], popup='<i>Jaya Obayashi</i>').add_to(m)
+
+folium.Marker([-6.245801, 106.846363], popup='<i>2</i>').add_to(m)
+
+folium.Marker([-6.246038, 106.847063], popup='<i>Serrum Studio</i>').add_to(m)
+
+folium.Marker([-6.245715, 106.847524], popup='<i>9</i>').add_to(m)
+
+folium.Marker([-6.245838, 106.847521], popup='<i>Unnamed Road</i>').add_to(m)
+
+folium.Marker([-6.245766, 106.847229], popup='<i>Forumsinema</i>').add_to(m)
