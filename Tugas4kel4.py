@@ -1,4 +1,4 @@
-#!/bin/python
+﻿#!/bin/python
 
 
 import folium
@@ -142,8 +142,6 @@ folium.Marker([-6.264317, 106.796323], popup='<i> Yayasan Pendidikan Tadika Puri
 
 folium.Marker([-6.264675, 106.797456], popup='<i> PT. Billboard</i>').add_to(m)
 
-
-
 folium.Marker([-6.097616, 106.801632], popup='<i>Tongkang GTS</i>').add_to(m)
 
 folium.Marker([-6.098037, 106.800329], popup='<i>Kedai Kopi Muara Baru</i>').add_to(m)
@@ -165,3 +163,26 @@ folium.Marker([-6.100579, 106.800201], popup='<i>Perusahaan Umum Perikanan Indon
 folium.Marker([-6.100623, 106.799933], popup='<i>Bank Bri</i>').add_to(m)
 
 folium.Marker([-6.100795, 106.799901], popup='<i>BNI MUARA BARU</i>').add_to(m)
+
+folium.Marker([-6.153783, 106.816732], popup='<i>Gedung Arsip Nasional RI</i>').add_to(m)
+
+folium.Marker([-6.135199, 106.813298], popup='<i>Museum Sejarah Jakarta</i>').add_to(m)
+
+folium.Marker([-6.317408, 106.855617], popup='<i>Bunderan Tugu Markas Komando Cijantung</i>').add_to(m)
+
+folium.Marker([-6.341121, 106.865417], popup='<i>SMA Budhi Warman II</i>').add_to(m)
+
+folium.Marker([-6.255948, 106.884001], popup='<i>Pringgodani Golf Club</i>').add_to(m)
+
+folium.Marker([-6.233147, 106.877256], popup='<i>Kementerian Lingkungan Hidup dan Kehutanan Republik Indonesia</i>').add_to(m)
+
+folium.Marker([-6.200502, 106.831057], popup='<i>Museum Perumusan Naskah Proklamasi</i>').add_to(m)
+
+folium.Marker([-6.199796, 106.827423], popup='<i>Komisi Pemilihan Umum RI</i>').add_to(m)
+
+folium.Marker([-6.210377, 106.800043], popup='<i>Gedung MPR/DPR RI</i>').add_to(m)
+
+folium.Marker([-6.220368, 106.806315], popup='<i>Istora Senayan</i>').add_to(m)
+
+
+m
