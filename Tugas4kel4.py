@@ -123,4 +123,4 @@ folium.Marker([-6.223247, 106.911958], popup='<i>12</i>').add_to(m)
 folium.Marker([-6.223487, 106.910783], popup='<i>Jl.Duren Sawit Indah Bblok A7 No.4</i>').add_to(m)
 
 
- m
+ 
