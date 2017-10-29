@@ -122,5 +122,26 @@ folium.Marker([-6.223247, 106.911958], popup='<i>12</i>').add_to(m)
 
 folium.Marker([-6.223487, 106.910783], popup='<i>Jl.Duren Sawit Indah Bblok A7 No.4</i>').add_to(m)
 
+folium.Marker([-6.244301, 106.79750], popup='<i> Baskin Robbins Plaza Blok M </i>').add_to(m)
+
+folium.Marker([-6.264186, 106.798727], popup='<i> ITC Fatmawati </i>').add_to(m)
+
+folium.Marker([-6.264237, 106.798580], popup='<i>Toko Hidayah </i>').add_to(m)
+
+folium.Marker([-6.263901,106.799074], popup='<i> Cartens® Autosound And Installation</i>').add_to(m)
+
+folium.Marker([-6.244301, 106.79750], popup='<i> Baskin Robbins Plaza Blok M </i>').add_to(m)
+
+folium.Marker([-6.263872, 106.799323], popup='<i> Bank DKI KCP Fatmawati </i>').add_to(m)
+
+folium.Marker([-6.263772, 106.798761], popup='<i> BANK DKI </i>').add_to(m)
+
+folium.Marker([-6.264845, 106.798320], popup='<i> Medika Jaya Mandiri. PT </i>').add_to(m)
+
+folium.Marker([-6.264317, 106.796323], popup='<i> Yayasan Pendidikan Tadika Puri </i>').add_to(m)
+
+folium.Marker([-6.264675, 106.797456], popup='<i> PT. Billboard</i>').add_to(m)
+
+
 
  
