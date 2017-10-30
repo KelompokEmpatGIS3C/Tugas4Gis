@@ -267,6 +267,27 @@ folium.Marker([-6.274958, 106.785088], popup='<i>Bukit Golf Apartment</i>').add_
 folium.Marker([-6.265828, 106.797630], popup='<i>Jakarta Vapor Shop</i>').add_to(m)
               
 
+folium.Marker([-6.176351, 106.846443], popup='<i>Sekolah Dasar Tanah Tinggi 01 Pagi</i>').add_to(m)
+
+folium.Marker([-6.176126, 106.846450], popup='<i>SDN Tanah Tinggi 02 Pt</i>').add_to(m)
+
+folium.Marker([-6.176182, 106.846716], popup='<i>Sekolah Dasar Tanah Tinggi 03 Pagi</i>').add_to(m)
+
+folium.Marker([-6.175963, 106.847288], popup='<i>SDN Tanah Tinggi 04 Petang</i>').add_to(m)
+
+folium.Marker([-6.179258, 106.847611], popup='<i>Sekolah Dasar Al Ittihadiyah</i>').add_to(m)
+
+folium.Marker([-6.180642, 106.845444], popup='<i>Sekolah Dasar Negeri Kramat 03</i>').add_to(m)
+
+folium.Marker([-6.180586, 106.845375], popup='<i>Sekolah Dasar Negeri Kramat 04</i>').add_to(m)
+
+folium.Marker([-6.182196, 106.846901], popup='<i>Sdn 05 Kembang Sepatu</i>').add_to(m)
+
+folium.Marker([-6.184893, 106.846775], popup='<i>Sekolah Dasar Negeri Kramat 09</i>').add_to(m)
+
+folium.Marker([-6.184917, 106.846742], popup='<i>SDN Kramat 08 Pg</i>').add_to(m)
+              
+
 
 
 
