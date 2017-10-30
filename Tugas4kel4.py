@@ -306,6 +306,24 @@ folium.Marker([-6.171188, 106.818288], popup='<i>Kantor Pos Jakarta Pusat Kantor
 
 folium.Marker([-6.171888, 106.814724], popup='<i>Dinas Kesehatan Provinsi DKI Jakarta</i>').add_to(maps)
 
+folium.Marker([-6.244483, 106.797537], popup='<i>Joey Sasmita Lencana</i>').add_to(m)
+
+folium.Marker([-6.244159, 106.797874], popup='<i>Pronton Moda</i>').add_to(m)
+
+folium.Marker([-6.244426, 106.797489], popup='<i>Arjuna Weda</i>').add_to(m)
+
+folium.Marker([-6.244716, 106.795919], popup='<i>Jl.Mahakam No.13</i>').add_to(m)
+
+folium.Marker([-6.246033, 106.796606], popup='<i>Jl.Melawai No.109</i>').add_to(m)
+
+folium.Marker([-6.245790, 106.796783], popup='<i>Olimo Prakarsa Bumi.PT</i>').add_to(m)
+
+folium.Marker([-6.245941, 106.796641], popup='<i>BCA KCU Kebayoran Baru</i>').add_to(m)
+
+folium.Marker([-6.245757, 106.796904], popup='<i>BC UBP</i>').add_to(m)
+
+folium.Marker([-6.245898, 106.795643], popup='<i>Cony Art</i>').add_to(m)
+
 
 
 
