@@ -203,3 +203,6 @@ folium.Marker([-6.245715, 106.847524], popup='<i>9</i>').add_to(m)
 folium.Marker([-6.245838, 106.847521], popup='<i>Unnamed Road</i>').add_to(m)
 
 folium.Marker([-6.245766, 106.847229], popup='<i>Forumsinema</i>').add_to(m)
+
+m
+#huruf m dengan sangat hormat jangan dihapus kampreeeet! 
