@@ -204,5 +204,40 @@ folium.Marker([-6.245838, 106.847521], popup='<i>Unnamed Road</i>').add_to(m)
 
 folium.Marker([-6.245766, 106.847229], popup='<i>Forumsinema</i>').add_to(m)
 
+folium.Marker([-6.046240, 106.796841], popup='<i>Teluk Jakarta</i>').add_to(m)
+
+folium.Marker([-6.2027044,106.828745], popup='<i>Taman Lawang</i>').add_to(m)
+
+folium.Marker([-6.2027044,106.8287477], popup='<i>Roti Marga Menteng</i>').add_to(m)
+
+folium.Marker([-6.2027044,106.8287477], popup='<i>Yayasan GBI Basilea </i>').add_to(m)
+
+folium.Marker([-6.2027817,106.8276399], popup='<i>Kedutaan Besar Korea Utara </i>').add_to(m)
+
+folium.Marker([-6.2022858,106.8261701], popup='<i>Bin House </i>').add_to(m)
+
+folium.Marker([-6.2022858,106.8261701], popup='<i>Super E Jakarta</i>').add_to(m)
+
+folium.Marker([-6.2018991,106.8257275], popup='<i>Open Data LAB Jakarta</i>').add_to(m)
+
+folium.Marker([-6.2018991,106.8257275], popup='<i>FG Store</i>').add_to(m)
+
+folium.Marker([-6.2013445,106.8246171], popup='<i>ROA Manadonesse Food</i>').add_to(m)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 m
 #huruf m dengan sangat hormat jangan dihapus kampreeeet! 
