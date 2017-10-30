@@ -224,7 +224,25 @@ folium.Marker([-6.2018991,106.8257275], popup='<i>FG Store</i>').add_to(m)
 
 folium.Marker([-6.2013445,106.8246171], popup='<i>ROA Manadonesse Food</i>').add_to(m)
 
+folium.Marker([-6.112186, 106.897692], popup='<i>Masjid SAFINATUL IMAN</i>').add_to(m)
 
+folium.Marker([-6.121026, 106.918110], popup='<i>Masjid Raya Jakarta Islamic Centre</i>').add_to(m)
+
+folium.Marker([-6.256633, 106.936823], popup='<i>Masjid Darussalam</i>').add_to(m)
+
+folium.Marker([-6.094201, 106.959718], popup='<i>Masjid Al Alam</i>').add_to(m)
+
+folium.Marker([-6.096525, 106.962740], popup='<i>Masjid Al-Hijrah Rusun Marunda</i>').add_to(m)
+
+folium.Marker([-6.245981, 106.931614], popup='<i>Masjid Raya Baitussalam</i>').add_to(m)
+
+folium.Marker([-6.244844, 106.933858], popup='<i>Masjid Azzumar</i>').add_to(m)
+
+folium.Marker([-6.240050, 106.933891], popup='<i>Masjid Nurul Hidayah</i>').add_to(m)
+
+folium.Marker([-6.240321, 106.938709], popup='<i>Masjid Alfalah</i>').add_to(m)
+
+folium.Marker([-6.239471, 106.942435], popup='<i>Masjid AT - Taqwa</i>').add_to(m)
 
 
 
