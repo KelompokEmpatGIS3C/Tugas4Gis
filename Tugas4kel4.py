@@ -122,25 +122,25 @@ folium.Marker([-6.223247, 106.911958], popup='<i>12</i>').add_to(m)
 
 folium.Marker([-6.223487, 106.910783], popup='<i>Jl.Duren Sawit Indah Bblok A7 No.4</i>').add_to(m)
 
-folium.Marker([-6.244301, 106.79750], popup='<i> Baskin Robbins Plaza Blok M </i>').add_to(m)
+folium.Marker([-6.244301, 106.79750], popup='<i>Baskin Robbins Plaza Blok M </i>').add_to(m)
 
-folium.Marker([-6.264186, 106.798727], popup='<i> ITC Fatmawati </i>').add_to(m)
+folium.Marker([-6.264186, 106.798727], popup='<i>ITC Fatmawati </i>').add_to(m)
 
 folium.Marker([-6.264237, 106.798580], popup='<i>Toko Hidayah </i>').add_to(m)
 
 folium.Marker([-6.263901,106.799074], popup='<i> Cartens® Autosound And Installation</i>').add_to(m)
 
-folium.Marker([-6.244301, 106.79750], popup='<i> Baskin Robbins Plaza Blok M </i>').add_to(m)
+folium.Marker([-6.244301, 106.79750], popup='<i>Baskin Robbins Plaza Blok M </i>').add_to(m)
 
-folium.Marker([-6.263872, 106.799323], popup='<i> Bank DKI KCP Fatmawati </i>').add_to(m)
+folium.Marker([-6.263872, 106.799323], popup='<i>Bank DKI KCP Fatmawati </i>').add_to(m)
 
-folium.Marker([-6.263772, 106.798761], popup='<i> BANK DKI </i>').add_to(m)
+folium.Marker([-6.263772, 106.798761], popup='<i>BANK DKI </i>').add_to(m)
 
-folium.Marker([-6.264845, 106.798320], popup='<i> Medika Jaya Mandiri. PT </i>').add_to(m)
+folium.Marker([-6.264845, 106.798320], popup='<i>Medika Jaya Mandiri. PT </i>').add_to(m)
 
-folium.Marker([-6.264317, 106.796323], popup='<i> Yayasan Pendidikan Tadika Puri </i>').add_to(m)
+folium.Marker([-6.264317, 106.796323], popup='<i>Yayasan Pendidikan Tadika Puri </i>').add_to(m)
 
-folium.Marker([-6.264675, 106.797456], popup='<i> PT. Billboard</i>').add_to(m)
+folium.Marker([-6.264675, 106.797456], popup='<i>PT. Billboard</i>').add_to(m)
 
 folium.Marker([-6.097616, 106.801632], popup='<i>Tongkang GTS</i>').add_to(m)
 
@@ -243,6 +243,31 @@ folium.Marker([-6.240050, 106.933891], popup='<i>Masjid Nurul Hidayah</i>').add_
 folium.Marker([-6.240321, 106.938709], popup='<i>Masjid Alfalah</i>').add_to(m)
 
 folium.Marker([-6.239471, 106.942435], popup='<i>Masjid AT - Taqwa</i>').add_to(m)
+
+folium.Marker([-6.283354, 106.79101], popup='<i>Baskin Robbins Plaza Blok MKRISTAL HOTEL</i>').add_to(m)
+
+folium.Marker([-6.282459, 106.790740], popup='<i>Hampton's Park Apartment</i>').add_to(m)
+              
+folium.Marker([-6.264237, 106.798580], popup='<i>Jakarta Intercultural School</i>').add_to(m)
+              
+folium.Marker([-6.285431, 106.788106],popup='<i>Sekolah Tirtamarta - Badan Pendidikan Kristen Penabur</i>').add_to(m)
+              
+folium.Marker([-6.282243, 106.789183], popup='<i>Gereja Kristen Indonesia Pondok Indah</i>').add_to(m)
+              
+folium.Marker([-6.281319, 106.796124], popup='<i>RS. Setia Mitra</i>').add_to(m)
+              
+folium.Marker([-6.277503, 106.796271], popup='<i>Asus Service Center Jakarta selatan Fatmawati</i>').add_to(m)
+              
+folium.Marker([-6.277434, 106.796528], popup='<i>Jakarta Conservatory of Music </i>').add_to(m)
+              
+folium.Marker([-6.274243, 106.793819], popup='<i>House of Tea</i>').add_to(m)
+              
+folium.Marker([-6.274958, 106.785088], popup='<i>Bukit Golf Apartment</i>').add_to(m)
+              
+folium.Marker([-6.265828, 106.797630], popup='<i>Jakarta Vapor Shop</i>').add_to(m)
+              
+
+
 
 
 
