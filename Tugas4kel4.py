@@ -440,7 +440,25 @@ folium.Marker([-6.359527, 106.882870], popup='<i>RM Salero Basamo</i>').add_to(m
 folium.Marker([-6.359754, 106.88311], popup='<i>Charissa. CV</i>').add_to(maps)
 
 
+folium.Marker([-6.129233, 106.942356], popup='<i>PT. Puninar Logistics</i>').add_to(maps)
 
+folium.Marker([-6.128734, 106.945408], popup='<i>Warehouse Lazada</i>').add_to(maps)
+
+folium.Marker([-6.104178, 106.958868], popup='<i>Sekolah Tinggi Ilmu Pelayaran</i>').add_to(maps)
+
+folium.Marker([-6.118411, 106.958118], popup='<i>Akademi Maritim Djadajat</i>').add_to(maps)
+
+folium.Marker([-6.112190, 106.752829], popup='<i>Rumah Sakit Pantai Indah Kapuk</i>').add_to(maps)
+
+folium.Marker([-6.105336, 106.735580], popup='<i>Taman Wisata Mangrove Angke Kapuk</i>').add_to(maps)
+
+folium.Marker([-6.123878, 106.806525], popup='<i>Makam Keramat Habib Husein Luar Batang</i>').add_to(maps)
+
+folium.Marker([-6.175279, 106.722868], popup='<i>Garuda Indonesia Training Center (GITC)</i>').add_to(maps)
+
+folium.Marker([-6.175232, 106.719091], popup='<i>Pondok Pesantren Al-Itqon</i>').add_to(maps)
+
+folium.Marker([-6.132039, 106.822420], popup='<i>Hotel Alexis</i>').add_to(maps)
 
 
 
@@ -452,3 +470,5 @@ folium.Marker([-6.359754, 106.88311], popup='<i>Charissa. CV</i>').add_to(maps)
 maps
 #kata maps dengan sangat hormat jangan dihapus kampreeeet! 
 #pendeklarasian diubah menjadi maps biar ada bedanya sama kelompok lain jadi yang lain menyesuaikan yah, ok!
+#kawan-kawan diperhatikan lagi yah kalau udah ada spot yang tercantum jangan dicantumin lagi biar gak redudansi
+#dan commit minimal 10 koordinat setiap hari jangan kurang pokoknya okesip!
