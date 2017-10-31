@@ -419,6 +419,26 @@ folium.Marker([-6.2141789,106.8859262], popup='<i>Gedung Alfiandra Sovenir</i>')
 folium.Marker([-6.2141789,106.8859262], popup='<i>Sari Idaman</i>').add_to(maps)
 
 
+olium.Marker([-6.358774, 106.884237], popup='<i>Masjid An Nahl</i>').add_to(maps)
+
+folium.Marker([-6.358998, 106.883325], popup='<i>Masjid Al- Amin</i>').add_to(maps)
+
+folium.Marker([-6.358905, 106.882550], popup='<i>Kusuma</i>').add_to(maps)
+
+folium.Marker([-6.359016, 106.882334], popup='<i>Udin Motor</i>').add_to(maps)
+
+folium.Marker([--6.359101, 106.882677], popup='<i>Western Union</i>').add_to(maps)
+
+folium.Marker([-6.359274, 106.882599], popup='<i>Sate Madura Suryadi</i>').add_to(maps)
+
+folium.Marker([-6.359357, 106.882776], popup='<i>Rezel Cloth</i>').add_to(maps)
+
+folium.Marker([-6.359363, 106.882207], popup='<i>Wiratama Lusindo. PT</i>').add_to(maps)
+
+folium.Marker([-6.359527, 106.882870], popup='<i>RM Salero Basamo</i>').add_to(maps)
+
+folium.Marker([-6.359754, 106.88311], popup='<i>Charissa. CV</i>').add_to(maps)
+
 
 
 
