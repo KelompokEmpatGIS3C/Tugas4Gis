@@ -346,6 +346,26 @@ folium.Marker([-6.289437, 106.778106], popup='<i>Poins Square Shopping Mall & Ap
 
 folium.Marker([-6.287668, 106.775829], popup='<i>Carrefour</i>').add_to(maps)
 
+folium.Marker([-6.235240, 106.856740], popup='<i>Apotik Tebet</i>').add_to(maps)
+
+folium.Marker([-6.235250, 106.856860], popup='<i>Tiga Mutiara</i>').add_to(maps)
+
+folium.Marker([-6.235419, 106.856767], popup='<i>Ayam Bakar Bumbu Rujak Sinar Petang</i>').add_to(maps)
+
+folium.Marker([-6.235467, 106.856862], popup='<i>bubur Kacang Ïjo Acong</i>').add_to(maps)
+
+folium.Marker([-6.235532, 106.856927], popup='<i>Bubur Kacang Ijo Madura Tebet </i>').add_to(maps)
+
+folium.Marker([-6.235444, 106.856982], popup='<i>Bengkel Hp</i>').add_to(maps)
+
+folium.Marker([-6.235473, 106.857018], popup='<i>ATM BRI</i>').add_to(maps)
+
+folium.Marker([-6.235556, 106.857212], popup='<i>Siklimis Barbershop</i>').add_to(maps)
+
+folium.Marker([-6.235640, 106.857134], popup='<i>Calibreworks</i>').add_to(maps)
+
+folium.Marker([-6.235678, 106.857099], popup='<i>Trijatek</i>').add_to(maps)
+
 
 
 
