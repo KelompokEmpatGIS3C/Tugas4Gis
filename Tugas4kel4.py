@@ -404,6 +404,25 @@ folium.Marker([-6.235640, 106.857134], popup='<i>Calibreworks</i>').add_to(maps)
 
 folium.Marker([-6.235678, 106.857099], popup='<i>Trijatek</i>').add_to(maps)
 
+folium.Marker([-6.2064995,106.8889518], popup='<i>Gedung Candra Naya</i>').add_to(maps)
+
+folium.Marker([-6.2062649,106.8860979], popup='<i>Pusdiklat Bea Cukai</i>').add_to(maps)
+
+folium.Marker([-6.2085474,106.8856258], popup='<i>PT.Petrolab Service</i>').add_to(maps)
+
+folium.Marker([-6.2107445,106.8854756], popup='<i>Kantor Pegawai Pusat Bea Cukai</i>').add_to(maps)
+
+folium.Marker([-6.2123231,106.8857331], popup='<i>Hotel Achmad Mas</i>').add_to(maps)
+
+folium.Marker([-6.2141789,106.8859262], popup='<i>Gedung Alfiandra Sovenir</i>').add_to(maps)
+
+folium.Marker([-6.2141789,106.8859262], popup='<i>Sari Idaman</i>').add_to(maps)
+
+
+
+
+
+
 
 
 
