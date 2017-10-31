@@ -377,13 +377,6 @@ folium.Marker([-6.235444, 106.856982], popup='<i>Bengkel Hp</i>').add_to(maps)
 folium.Marker([-6.235473, 106.857018], popup='<i>ATM BRI</i>').add_to(maps)
 
 
-folium.Marker([-6.235556, 106.857212], popup='<i>Siklimis Barbershop</i>').add_to(maps)
-
-folium.Marker([-6.235640, 106.857134], popup='<i>Calibreworks</i>').add_to(maps)
-
-folium.Marker([-6.235678, 106.857099], popup='<i>Trijatek</i>').add_to(maps)
-
-
 folium.Marker([-6.302569, 106.893074], popup='<i>Anjungan DKI Jakarta</i>').add_to(maps)
 
 folium.Marker([-6.302729, 106.894681], popup='<i>Anjungan Jawa Barat</i>').add_to(maps)
@@ -405,6 +398,11 @@ folium.Marker([-6.303414, 106.899546], popup='<i>Anjungan Sulawesi Selatan</i>')
 folium.Marker([-6.303279, 106.900074], popup='<i>Anjungan Sulawesi Tenggara</i>').add_to(maps)
 
 
+folium.Marker([-6.235556, 106.857212], popup='<i>Siklimis Barbershop</i>').add_to(maps)
+
+folium.Marker([-6.235640, 106.857134], popup='<i>Calibreworks</i>').add_to(maps)
+
+folium.Marker([-6.235678, 106.857099], popup='<i>Trijatek</i>').add_to(maps)
 
 
 
