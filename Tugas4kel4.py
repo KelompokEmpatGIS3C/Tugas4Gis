@@ -34,6 +34,7 @@ folium.Marker([-6.196270, 106.823889], popup='<i>Swimming Pool - Mandarin Hotel,
 
 folium.Marker([-6.199610, 106.832275], popup='<i>Lapangan Merdeka</i>').add_to(maps)
 
+
 folium.Marker([-6.231707, 106.909807], popup='<i>Rumah Sakit Duren Sawit</i>').add_to(maps)
 
 folium.Marker([-6.231944, 106.908660], popup='<i>Warung Bu Tin</i>').add_to(maps)
@@ -53,6 +54,7 @@ folium.Marker([-6.312821, 106.861838], popup='<i>Mall Graha Cijantung</i>').add_
 folium.Marker([-6.157329, 106.908704], popup='<i>Mall Kelapa Gading</i>').add_to(maps)
 
 folium.Marker([-6.328956, 106.890288], popup='<i>Kampung Artis</i>').add_to(maps)
+
 
 folium.Marker([-6.196195, 106.829531], popup='<i>Taman Menteng</i>').add_to(maps)
 
@@ -74,6 +76,7 @@ folium.Marker([-6.170164, 106.831387], popup='<i>Masjid Istiqlal</i>').add_to(ma
 
 folium.Marker([-6.123794, 106.831809], popup='<i>Dunia Fantasi</i>').add_to(maps)
 
+
 folium.Marker([-6.134263, 106.813040], popup='<i>Kota Tua</i>').add_to(maps)
 
 folium.Marker([-6.134903, 106.813262], popup='<i>Taman Fattahillah, Kota Tua</i>').add_to(maps)
@@ -93,6 +96,7 @@ folium.Marker([-6.111131, 106.883182], popup='<i>BRI UNIT TONGKOL</i>').add_to(m
 folium.Marker([-6.111200, 106.881655], popup='<i>BNI TANJUNG PRIOK</i>').add_to(maps)
 
 folium.Marker([-6.111504, 106.881694], popup='<i>Bank Mandiri KCP Jakarta Tanjungpriok</i>').add_to(maps)
+
 
 folium.Marker([-6.109490, 106.884260], popup='<i>Balai Besar Karantina Pertanian Tanjungpriok</i>').add_to(maps)
 
@@ -114,6 +118,7 @@ folium.Marker([-6.183848, 106.836464], popup='<i>Kwitang</i>').add_to(maps)
 
 folium.Marker([-6.203986, 106.848823], popup='<i>Pegangsaan</i>').add_to(maps)
 
+
 folium.Marker([-6.194941, 106.845219], popup='<i>Kenari</i>').add_to(maps)
 
 folium.Marker([-6.261920, 106.831258], popup='<i>Kalibata</i>').add_to(maps)
@@ -133,6 +138,7 @@ folium.Marker([-6.263901,106.799074], popup='<i> Cartens® Autosound And Install
 folium.Marker([-6.244301, 106.79750], popup='<i>Baskin Robbins Plaza Blok M </i>').add_to(maps)
 
 folium.Marker([-6.263872, 106.799323], popup='<i>Bank DKI KCP Fatmawati </i>').add_to(maps)
+
 
 folium.Marker([-6.263772, 106.798761], popup='<i>BANK DKI </i>').add_to(maps)
 
@@ -154,6 +160,7 @@ folium.Marker([-6.098951, 106.800489], popup='<i>S Gunawan Cell</i>').add_to(map
 
 folium.Marker([-6.098949, 106.800395], popup='<i>PT. MEKAR SEA WORLD</i>').add_to(maps)
 
+
 folium.Marker([-6.098961, 106.799286], popup='<i>Toko Anugerah Fishery</i>').add_to(maps)
 
 folium.Marker([-6.099894, 106.800724], popup='<i>Mie Ayam Pakdhe Gayout</i>').add_to(maps)
@@ -173,6 +180,7 @@ folium.Marker([-6.317408, 106.855617], popup='<i>Bunderan Tugu Markas Komando Ci
 folium.Marker([-6.341121, 106.865417], popup='<i>SMA Budhi Warman II</i>').add_to(maps)
 
 folium.Marker([-6.255948, 106.884001], popup='<i>Pringgodani Golf Club</i>').add_to(maps)
+
 
 folium.Marker([-6.233147, 106.877256], popup='<i>Kementerian Lingkungan Hidup dan Kehutanan Republik Indonesia</i>').add_to(maps)
 
@@ -194,6 +202,7 @@ folium.Marker([-6.246128, 106.847403], popup='<i>Gudang Sarinah</i>').add_to(map
 
 folium.Marker([-6.246294, 106.846299], popup='<i>Jaya Obayashi</i>').add_to(maps)
 
+
 folium.Marker([-6.245801, 106.846363], popup='<i>2</i>').add_to(maps)
 
 folium.Marker([-6.246038, 106.847063], popup='<i>Serrum Studio</i>').add_to(maps)
@@ -214,6 +223,7 @@ folium.Marker([-6.2027044,106.8287477], popup='<i>Yayasan GBI Basilea </i>').add
 
 folium.Marker([-6.2027817,106.8276399], popup='<i>Kedutaan Besar Korea Utara </i>').add_to(maps)
 
+
 folium.Marker([-6.2022858,106.8261701], popup='<i>Bin House </i>').add_to(maps)
 
 folium.Marker([-6.2022858,106.8261701], popup='<i>Super E Jakarta</i>').add_to(maps)
@@ -233,6 +243,7 @@ folium.Marker([-6.256633, 106.936823], popup='<i>Masjid Darussalam</i>').add_to(
 folium.Marker([-6.094201, 106.959718], popup='<i>Masjid Al Alam</i>').add_to(maps)
 
 folium.Marker([-6.096525, 106.962740], popup='<i>Masjid Al-Hijrah Rusun Marunda</i>').add_to(maps)
+
 
 folium.Marker([-6.245981, 106.931614], popup='<i>Masjid Raya Baitussalam</i>').add_to(maps)
 
@@ -259,12 +270,13 @@ folium.Marker([-6.281319, 106.796124], popup='<i>RS. Setia Mitra</i>').add_to(ma
 folium.Marker([-6.277503, 106.796271], popup='<i>Asus Service Center Jakarta selatan Fatmawati</i>').add_to(maps)
               
 folium.Marker([-6.277434, 106.796528], popup='<i>Jakarta Conservatory of Music </i>').add_to(maps)
+
               
 folium.Marker([-6.274243, 106.793819], popup='<i>House of Tea</i>').add_to(maps)
               
 folium.Marker([-6.274958, 106.785088], popup='<i>Bukit Golf Apartment</i>').add_to(maps)
               
-folium.Marker([-6.265828, 106.797630], popup='<i>Jakarta Vapor Shop</i>').add_to(maps)              
+folium.Marker([-6.265828, 106.797630], popup='<i>Jakarta Vapor Shop</i>').add_to(maps) 
 
 folium.Marker([-6.176351, 106.846443], popup='<i>Sekolah Dasar Tanah Tinggi 01 Pagi</i>').add_to(maps)
 
@@ -280,12 +292,13 @@ folium.Marker([-6.180642, 106.845444], popup='<i>Sekolah Dasar Negeri Kramat 03<
 
 folium.Marker([-6.180586, 106.845375], popup='<i>Sekolah Dasar Negeri Kramat 04</i>').add_to(maps)
 
+
 folium.Marker([-6.182196, 106.846901], popup='<i>Sdn 05 Kembang Sepatu</i>').add_to(maps)
 
 folium.Marker([-6.184893, 106.846775], popup='<i>Sekolah Dasar Negeri Kramat 09</i>').add_to(maps)
 
 folium.Marker([-6.184917, 106.846742], popup='<i>SDN Kramat 08 Pg</i>').add_to(maps)
-              
+            
 folium.Marker([-6.223565, 106.798990], popup='<i>Google Indonesia</i>').add_to(maps)
 
 folium.Marker([-6.223443, 106.798975], popup='<i>Japan International Corporation Agency (JICA)</i>').add_to(maps)
@@ -299,6 +312,7 @@ folium.Marker([-6.197188, 106.846868], popup='<i>Rumah Sakit Umum Pusat Nasional
 folium.Marker([-6.181264, 106.828987], popup='<i>Balai Kota DKI Jakarta</i>').add_to(maps)
 
 folium.Marker([-6.181567, 106.829796], popup='<i>Istana Wakil Presiden</i>').add_to(maps)
+
 
 folium.Marker([-6.173157, 106.818674], popup='<i>Kantor Walikota Jakarta Pusat</i>').add_to(maps)
 
@@ -320,6 +334,7 @@ folium.Marker([-6.245790, 106.796783], popup='<i>Olimo Prakarsa Bumi.PT</i>').ad
 
 folium.Marker([-6.245941, 106.796641], popup='<i>BCA KCU Kebayoran Baru</i>').add_to(maps)
 
+
 folium.Marker([-6.245757, 106.796904], popup='<i>BC UBP</i>').add_to(maps)
 
 folium.Marker([-6.245898, 106.795643], popup='<i>Cony Art</i>').add_to(maps)
@@ -339,6 +354,7 @@ folium.Marker([-6.295712, 106.795753], popup='<i>Kantin Dharma Wanita Persatuan 
 folium.Marker([-6.288766, 106.774981], popup='<i>Fire Department Lebak Bulus</i>').add_to(maps)
 
 folium.Marker([-6.292354, 106.784492], popup='<i>NOBU int Bank</i>').add_to(maps)
+
 
 folium.Marker([-6.292002, 106.782952], popup='<i>Bluebird Pool Lebak Bulus</i>').add_to(maps)
 
@@ -360,6 +376,7 @@ folium.Marker([-6.235444, 106.856982], popup='<i>Bengkel Hp</i>').add_to(maps)
 
 folium.Marker([-6.235473, 106.857018], popup='<i>ATM BRI</i>').add_to(maps)
 
+
 folium.Marker([-6.235556, 106.857212], popup='<i>Siklimis Barbershop</i>').add_to(maps)
 
 folium.Marker([-6.235640, 106.857134], popup='<i>Calibreworks</i>').add_to(maps)
@@ -367,7 +384,25 @@ folium.Marker([-6.235640, 106.857134], popup='<i>Calibreworks</i>').add_to(maps)
 folium.Marker([-6.235678, 106.857099], popup='<i>Trijatek</i>').add_to(maps)
 
 
+folium.Marker([-6.302569, 106.893074], popup='<i>Anjungan DKI Jakarta</i>').add_to(maps)
 
+folium.Marker([-6.302729, 106.894681], popup='<i>Anjungan Jawa Barat</i>').add_to(maps)
+
+folium.Marker([-6.303393, 106.895365], popup='<i>Anjungan Jawa Tengah</i>').add_to(maps)
+
+folium.Marker([-6.302715, 106.896224], popup='<i>Anjungan D.I. Yogyakarta</i>').add_to(maps)
+
+folium.Marker([-6.303471, 106.896717], popup='<i>Anjungan Jawa Timur</i>').add_to(maps)
+
+folium.Marker([-6.302677, 106.897564], popup='<i>Anjungan Bali</i>').add_to(maps)
+
+folium.Marker([-6.303231, 106.898095], popup='<i>Anjungan Nusa Tenggara Barat</i>').add_to(maps)
+
+folium.Marker([-6.303356, 106.898814], popup='<i>Anjungan Nusa Tenggara Timur</i>').add_to(maps)
+
+folium.Marker([-6.303414, 106.899546], popup='<i>Anjungan Sulawesi Selatan</i>').add_to(maps)
+
+folium.Marker([-6.303279, 106.900074], popup='<i>Anjungan Sulawesi Tenggara</i>').add_to(maps)
 
 
 
