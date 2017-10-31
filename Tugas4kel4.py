@@ -324,6 +324,29 @@ folium.Marker([-6.245757, 106.796904], popup='<i>BC UBP</i>').add_to(maps)
 
 folium.Marker([-6.245898, 106.795643], popup='<i>Cony Art</i>').add_to(maps)
 
+folium.Marker([-6.291918, 106.799923], popup='<i>Cilandak Town Square</i>').add_to(maps)
+
+folium.Marker([-6.289710, 106.793384], popup='<i>Museum Basoeki Abdullah</i>').add_to(maps)
+
+folium.Marker([-6.291046, 106.794961], popup='<i>Dealer Isuzu Fatmawati Astra International</i>').add_to(maps)
+
+folium.Marker([-6.292810, 106.793195], popup='<i>BPJS Ketenagakerjaan</i>').add_to(maps)
+
+folium.Marker([-6.294462, 106.794718], popup='<i>Kantorpos DC Jakarta Selatan</i>').add_to(maps)
+
+folium.Marker([-6.295712, 106.795753], popup='<i>Kantin Dharma Wanita Persatuan </i>').add_to(maps)
+
+folium.Marker([-6.288766, 106.774981], popup='<i>Fire Department Lebak Bulus</i>').add_to(maps)
+
+folium.Marker([-6.292354, 106.784492], popup='<i>NOBU int Bank</i>').add_to(maps)
+
+folium.Marker([-6.292002, 106.782952], popup='<i>Bluebird Pool Lebak Bulus</i>').add_to(maps)
+
+folium.Marker([-6.289437, 106.778106], popup='<i>Poins Square Shopping Mall & Apartment </i>').add_to(maps)
+
+folium.Marker([-6.287668, 106.775829], popup='<i>Carrefour</i>').add_to(maps)
+
+
 
 
 
