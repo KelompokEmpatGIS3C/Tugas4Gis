@@ -427,7 +427,7 @@ folium.Marker([-6.358905, 106.882550], popup='<i>Kusuma</i>').add_to(maps)
 
 folium.Marker([-6.359016, 106.882334], popup='<i>Udin Motor</i>').add_to(maps)
 
-folium.Marker([--6.359101, 106.882677], popup='<i>Western Union</i>').add_to(maps)
+folium.Marker([-6.359101, 106.882677], popup='<i>Western Union</i>').add_to(maps)
 
 folium.Marker([-6.359274, 106.882599], popup='<i>Sate Madura Suryadi</i>').add_to(maps)
 
@@ -479,6 +479,30 @@ folium.Marker([-6.226903, 106.898853], popup='<i>Duta Plywood</i>').add_to(maps)
 folium.Marker([-6.226612, 106.898665], popup='<i>Utama Jaya Stell</i>').add_to(maps)
 
 folium.Marker([-6.227087, 106.898676], popup='<i>Fortuna</i>').add_to(maps)
+
+
+folium.Marker([-6.310188, 106.759253], popup='<i> Psychology Faculty of State Islamic University Syarif Hidayatullah Jakarta</i>').add_to(maps)
+
+folium.Marker([-6.309905, 106.759360], popup='<i> Sekolah Pascasarjana UIN Syarif Hidayatullah Jakarta</i>').add_to(maps)
+
+folium.Marker([-6.309633, 106.758786], popup='<i> Merlion Cafe</i>').add_to(maps)
+
+folium.Marker([-6.309078, 106.758464], popup='<i> Pusat TIK Nasional Kementerian Komunikasi dan Informatika</i>').add_to(maps)
+
+folium.Marker([-6.307622, 106.760095], popup='<i> International Sports Club of Indonesia (ISCI)</i>').add_to(maps)
+
+folium.Marker([-6.306135, 106.759016], popup='<i> Micasa Townhouse</i>').add_to(maps)
+
+folium.Marker([-6.306548, 106.757790], popup='<i> StarsGalery (TOKO GITAR)</i>').add_to(maps)
+
+folium.Marker([-6.307025, 106.757484], popup='<i> Farel Blackberry</i>').add_to(maps)
+
+folium.Marker([-6.310749, 106.755448], popup='<i> Toko Legoso</i>').add_to(maps)
+
+folium.Marker([-6.313319, 106.754606], popup='<i> Toko Erka Bahan Kue </i>').add_to(maps)
+
+folium.Marker([-6.314220, 106.754279], popup='<i> Dan Dan Fun Healthy</i>').add_to(maps)
+
 
 
 
