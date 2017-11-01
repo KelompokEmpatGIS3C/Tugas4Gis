@@ -504,6 +504,37 @@ folium.Marker([-6.313319, 106.754606], popup='<i> Toko Erka Bahan Kue </i>').add
 folium.Marker([-6.314220, 106.754279], popup='<i> Dan Dan Fun Healthy</i>').add_to(maps)
 
 
+folium.Marker([-6.2401282,106.8156524], popup='<i> fx Sudirman</i>').add_to(maps)
+
+folium.Marker([-6.2449915,106.8100734], popup='<i> ITC Kuningan</i>').add_to(maps)
+
+folium.Marker([-6.2615436,106.8117042], popup='<i> Pejaten Village Mall</i>').add_to(maps)
+
+folium.Marker([-6.2778392,106.8748755], popup='<i> Kantor Gedung Aneka Tambang</i>').add_to(maps)
+
+folium.Marker([-6.3203248,106.8795104], popup='<i> Kampung Artis</i>').add_to(maps)
+
+folium.Marker([-6.3303059,106.887836], popup='<i> Padang Golf Cilangkap</i>').add_to(maps)
+
+folium.Marker([-6.3303059,106.8877502], popup='<i> HKBP Pasar Rebo</i>').add_to(maps)
+
+folium.Marker([-6.3338888,106.8736739], popup='<i> HKBP Taman Mini</i>').add_to(maps)
+
+folium.Marker([-6.3338888,106.8736739], popup='<i> HKBP Sutoyo</i>').add_to(maps)
+
+folium.Marker([-6.3391138,106.8405433], popup='<i> SMA N 88 Jakarta</i>').add_to(maps)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
