@@ -460,6 +460,26 @@ folium.Marker([-6.175232, 106.719091], popup='<i>Pondok Pesantren Al-Itqon</i>')
 
 folium.Marker([-6.132039, 106.822420], popup='<i>Hotel Alexis</i>').add_to(maps)
 
+folium.Marker([-6.226506, 106.899704], popup='<i>Sekolah Tinggi Ilmu Ekonomi Trianandra</i>').add_to(map)
+
+folium.Marker([-6.226213, 106.899422], popup='<i>SMA Santo Alexius</i>').add_to(maps)
+
+folium.Marker([-6.225654, 106.899030], popup='<i>Royal Furniture</i>').add_to(maps)
+
+folium.Marker([-6.226233, 106.899011], popup='<i>Wisma Mebel</i>').add_to(maps)
+
+folium.Marker([-6.226356, 106.898995], popup='<i>Jl.Pahlawan Revolusi No.40C</i>').add_to(maps)
+
+folium.Marker([-6.226783, 106.898960], popup='<i>Lysaght Point</i>').add_to(maps)
+
+folium.Marker([-6.226946, 106.899051], popup='<i>RIO MITRA JAYA</i>').add_to(maps)
+
+folium.Marker([-6.226903, 106.898853], popup='<i>Duta Plywood</i>').add_to(maps)
+
+folium.Marker([-6.226612, 106.898665], popup='<i>Utama Jaya Stell</i>').add_to(maps)
+
+folium.Marker([-6.227087, 106.898676], popup='<i>Fortuna</i>').add_to(maps)
+
 
 
 
