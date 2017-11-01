@@ -524,6 +524,26 @@ folium.Marker([-6.3338888,106.8736739], popup='<i> HKBP Sutoyo</i>').add_to(maps
 
 folium.Marker([-6.3391138,106.8405433], popup='<i> SMA N 88 Jakarta</i>').add_to(maps)
 
+folium.Marker([-6.226650, 106.898223], popup='<i>PT.Antarusaha Putratama</i>').add_to(maps)
+
+folium.Marker([-6.227290, 106.898325], popup='<i>Beni Jaya</i>').add_to(maps)
+
+folium.Marker([-6.227378, 106.898159], popup='<i>HBC</i>').add_to(maps)
+
+folium.Marker([-6.224018, 106.898041], popup='<i>Jl.Pahlawan Revolusi No.2</i>').add_to(maps)
+
+folium.Marker([-6.239629, 106.886123], popup='<i>Cipinang Muara</i>').add_to(maps)
+
+folium.Marker([-6.238040, 106.887003], popup='<i>Jl.Kesadaran 37</i>').add_to(maps)
+
+folium.Marker([-6.237261, 106.888022], popup='<i>Jakarta Timur</i>').add_to(maps)
+
+folium.Marker([-6.238434, 106.886718], popup='<i>Majalah INDONESIA REPORTASE</i>').add_to(maps)
+
+folium.Marker([-6.239449, 106.882183], popup='<i>Goedang Futsal</i>').add_to(maps)
+
+folium.Marker([-6.238810, 106.883201], popup='<i>Jl.Panca Warga Lima No.4</i>').add_to(maps)
+
 
 
 
