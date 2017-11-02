@@ -133,7 +133,7 @@ folium.Marker([-6.264186, 106.798727], popup='<i>ITC Fatmawati </i>').add_to(map
 
 folium.Marker([-6.264237, 106.798580], popup='<i>Toko Hidayah </i>').add_to(maps)
 
-folium.Marker([-6.263901,106.799074], popup='<i> Cartens® Autosound And Installation</i>').add_to(maps)
+folium.Marker([-6.263901,106.799074], popup='<i>Cartens® Autosound And Installation</i>').add_to(maps)
 
 folium.Marker([-6.244301, 106.79750], popup='<i>Baskin Robbins Plaza Blok M </i>').add_to(maps)
 
@@ -543,6 +543,31 @@ folium.Marker([-6.238434, 106.886718], popup='<i>Majalah INDONESIA REPORTASE</i>
 folium.Marker([-6.239449, 106.882183], popup='<i>Goedang Futsal</i>').add_to(maps)
 
 folium.Marker([-6.238810, 106.883201], popup='<i>Jl.Panca Warga Lima No.4</i>').add_to(maps)
+
+
+folium.Marker([-6.364820, 106.834050], popup='<i>Warunk Upnormal</i>').add_to(maps)
+
+folium.Marker([-6.364457, 106.833645], popup='<i>Soerabi Bandung Enhaii</i>').add_to(maps)
+
+folium.Marker([-6.366366, 106.833401], popup='<i>Penyetlicious Resto Penyet</i>').add_to(maps)
+
+folium.Marker([-6.367211, 106.834283], popup='<i>Shop&Drive Margonda2</i>').add_to(maps)
+
+folium.Marker([-6.366996, 106.834193], popup='<i>Pondok Bangladesh</i>').add_to(maps)
+
+folium.Marker([-6.367478, 106.833863], popup='<i>Bamboo Dim Sum</i>').add_to(maps)
+
+folium.Marker([-6.367102, 106.833904], popup='<i>Café Kimung</i>').add_to(maps)
+
+folium.Marker([-6.360775, 106.831710], popup='<i>Universitas Indonesia Train Station</i>').add_to(maps)
+
+folium.Marker([-6.358846, 106.833051], popup='<i>Warung Pasta Depok</i>').add_to(maps)
+
+folium.Marker([-6.358814, 106.832439], popup='<i>Mesinlaundry.com </i>').add_to(maps)
+
+folium.Marker([-6.361749, 106.833725], popup='<i>Zoya Depok</i>').add_to(maps)
+
+
 
 
 
