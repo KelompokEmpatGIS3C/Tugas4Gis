@@ -589,6 +589,30 @@ folium.Marker([-6.349757, 106.843658], popup='<i>Alfamart Pasir gunung Selatan</
 folium.Marker([-6.349961, 106.843799], popup='<i>Tactical Shop</i>').add_to(maps)
 
 
+folium.Marker([-6.217654,106.8412736], popup='<i>Alfamart Lontar</i>').add_to(maps)
+
+folium.Marker([-6.217654,106.8412736], popup='<i>Alfamart Doktor Saharjo</i>').add_to(maps)
+
+folium.Marker([-6.217654,106.8412736], popup='<i>Apotik Barkah</i>').add_to(maps)
+
+folium.Marker([-6.2228375,106.8394712], popup='<i>H&M</i>').add_to(maps)
+
+folium.Marker([-6.2243307,106.8361452], popup='<i>The Westin</i>').add_to(maps)
+
+folium.Marker([-6.224672,106.8318215], popup='<i>Manhattan Hotel</i>').add_to(maps)
+
+folium.Marker([-6.2258132,106.8293968], popup='<i>The Ritz Calton</i>').add_to(maps)
+
+folium.Marker([-6.2266238,106.8266287], popup='<i>Ranch Market</i>').add_to(maps)
+
+folium.Marker([-6.2273917,106.8260065], popup='<i>The East</i>').add_to(maps)
+
+folium.Marker([-6.2258132,106.8293968], popup='<i>The Ritz Calton</i>').add_to(maps)
+
+
+
+
+
 
 folium.Marker(
     location=[-6.178241, 106.832033],
