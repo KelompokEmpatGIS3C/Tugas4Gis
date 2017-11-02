@@ -481,11 +481,11 @@ folium.Marker([-6.226612, 106.898665], popup='<i>Utama Jaya Stell</i>').add_to(m
 folium.Marker([-6.227087, 106.898676], popup='<i>Fortuna</i>').add_to(maps)
 
 
-folium.Marker([-6.310188, 106.759253], popup='<i> Psychology Faculty of State Islamic University Syarif Hidayatullah Jakarta</i>').add_to(maps)
+folium.Marker([-6.310188, 106.759253], popup='<i>Psychology Faculty of State Islamic University Syarif Hidayatullah Jakarta</i>').add_to(maps)
 
-folium.Marker([-6.309905, 106.759360], popup='<i> Sekolah Pascasarjana UIN Syarif Hidayatullah Jakarta</i>').add_to(maps)
+folium.Marker([-6.309905, 106.759360], popup='<i>Sekolah Pascasarjana UIN Syarif Hidayatullah Jakarta</i>').add_to(maps)
 
-folium.Marker([-6.309633, 106.758786], popup='<i> Merlion Cafe</i>').add_to(maps)
+folium.Marker([-6.309633, 106.758786], popup='<i>Merlion Cafe</i>').add_to(maps)
 
 folium.Marker([-6.309078, 106.758464], popup='<i> Pusat TIK Nasional Kementerian Komunikasi dan Informatika</i>').add_to(maps)
 
