@@ -568,6 +568,28 @@ folium.Marker([-6.358814, 106.832439], popup='<i>Mesinlaundry.com </i>').add_to(
 folium.Marker([-6.361749, 106.833725], popup='<i>Zoya Depok</i>').add_to(maps)
 
 
+folium.Marker([-6.350292, 106.839489], popup='<i>Warung ilham</i>').add_to(maps)
+
+folium.Marker([-6.349401, 106.840912], popup='<i>Warung Makan Bu Asti</i>').add_to(maps)
+
+folium.Marker([-6.349658, 106.842107], popup='<i>Nusantara</i>').add_to(maps)
+
+folium.Marker([-6.350086, 106.841919], popup='<i>Wapo – Pd Lesehan</i>').add_to(maps)
+
+folium.Marker([-6.350302, 106.842200], popup='<i>Warung Ian</i>').add_to(maps)
+
+folium.Marker([-6.351084, 106.842289], popup='<i>Amelia Butik</i>').add_to(maps)
+
+folium.Marker([-6.351254, 106.842297], popup='<i>Hisana Fried Chicken</i>').add_to(maps)
+
+folium.Marker([-6.351495, 106.842418], popup='<iDepot Joss</i>').add_to(maps)
+
+folium.Marker([-6.349757, 106.843658], popup='<i>Alfamart Pasir gunung Selatan</i>').add_to(maps)
+
+folium.Marker([-6.349961, 106.843799], popup='<i>Tactical Shop</i>').add_to(maps)
+
+
+
 folium.Marker(
     location=[-6.178241, 106.832033],
     popup='Galeri Nasional Indonesia',
