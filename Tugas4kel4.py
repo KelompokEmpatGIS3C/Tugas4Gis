@@ -3,14 +3,14 @@
 
 import folium
 
+def koordinat(long, lat):
+    maps = folium.Map(   
+    location=[long, lat],   
+    zoom_start=12,   
+    tiles='Stamen Terrain')
+    return maps
 
-maps = folium.Map(   
-location=[-6.21462, 106.84513],   
-zoom_start=12,   
-tiles='Stamen Terrain'
-)
-
-
+maps = koordinat(-6.21462, 106.84513)
 tooltip = 'Click me!'
 
 
@@ -419,7 +419,7 @@ folium.Marker([-6.2141789,106.8859262], popup='<i>Gedung Alfiandra Sovenir</i>')
 folium.Marker([-6.2141789,106.8859262], popup='<i>Sari Idaman</i>').add_to(maps)
 
 
-olium.Marker([-6.358774, 106.884237], popup='<i>Masjid An Nahl</i>').add_to(maps)
+folium.Marker([-6.358774, 106.884237], popup='<i>Masjid An Nahl</i>').add_to(maps)
 
 folium.Marker([-6.358998, 106.883325], popup='<i>Masjid Al- Amin</i>').add_to(maps)
 
@@ -460,7 +460,7 @@ folium.Marker([-6.175232, 106.719091], popup='<i>Pondok Pesantren Al-Itqon</i>')
 
 folium.Marker([-6.132039, 106.822420], popup='<i>Hotel Alexis</i>').add_to(maps)
 
-folium.Marker([-6.226506, 106.899704], popup='<i>Sekolah Tinggi Ilmu Ekonomi Trianandra</i>').add_to(map)
+folium.Marker([-6.226506, 106.899704], popup='<i>Sekolah Tinggi Ilmu Ekonomi Trianandra</i>').add_to(maps)
 
 folium.Marker([-6.226213, 106.899422], popup='<i>SMA Santo Alexius</i>').add_to(maps)
 
@@ -568,9 +568,65 @@ folium.Marker([-6.358814, 106.832439], popup='<i>Mesinlaundry.com </i>').add_to(
 folium.Marker([-6.361749, 106.833725], popup='<i>Zoya Depok</i>').add_to(maps)
 
 
+folium.Marker(
+    location=[-6.178241, 106.832033],
+    popup='Galeri Nasional Indonesia',
+    icon=folium.Icon(icon='cloud')
+).add_to(maps)
 
+folium.Marker(
+    location=[-6.174412, 106.830875],
+    popup='Markas Besar Tentara Nasional Indonesia',
+    icon=folium.Icon(icon='cloud')
+).add_to(maps)
 
+folium.Marker(
+    location=[-6.170297, 106.834926],
+    popup='Monumen Pembebasan Irian Barat',
+    icon=folium.Icon(icon='cloud')
+).add_to(maps)
 
+folium.Marker(
+    location=[-6.167328, 106.835216],
+    popup='POS INDONESIA. PT Persero',
+    icon=folium.Icon(icon='cloud')
+).add_to(maps)
+
+folium.Marker(
+    location=[-6.166529, 106.834404],
+    popup='Gedung Kesenian Jakarta',
+    icon=folium.Icon(icon='cloud')
+).add_to(maps)
+
+folium.Marker(
+    location=[-6.176215, 106.843935],
+    popup='Monumen Perjuangan Senen',
+    icon=folium.Icon(icon='cloud')
+).add_to(maps)
+
+folium.Marker(
+    location=[-6.182714, 106.834832],
+    popup='Tugu Tani',
+    icon=folium.Icon(icon='cloud')
+).add_to(maps)
+
+folium.Marker(
+    location=[-6.181685, 106.833312],
+    popup='KPP Pratama Jakarta Menteng Dua',
+    icon=folium.Icon(icon='cloud')
+).add_to(maps)
+
+folium.Marker(
+    location=[-6.181131, 106.840382],
+    popup='Warung Nasi Berkah',
+    icon=folium.Icon(icon='cloud')
+).add_to(maps)
+
+folium.Marker(
+    location=[-6.175278, 106.928449],
+    popup='PT. Lion Wings',
+    icon=folium.Icon(icon='cloud')
+).add_to(maps)
 
 
 
