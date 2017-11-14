@@ -1,7 +1,4 @@
-﻿#!/bin/python
-
-
-import folium
+﻿import folium
 
 def koordinat(long, lat):
     maps = folium.Map(   
@@ -10,7 +7,26 @@ def koordinat(long, lat):
     tiles='Stamen Terrain')
     return maps
 
+def peta(long, lat):
+    koor = folium.Map(   
+    location=[long, lat],   
+    zoom_start=12,   
+    tiles='Stamen Terrain')
+    return koor
+
+def testing(long, lat):
+    gps = folium.Map(   
+    location=[long, lat],   
+    zoom_start=12,   
+    tiles='Stamen Terrain')
+    return gps
+
+def save(anu, enak):
+    anu.save(enak)
+
 maps = koordinat(-6.21462, 106.84513)
+koor = peta(-6.21462, 106.84513)
+gps = testing(-6.21462, 106.84513)
 tooltip = 'Click me!'
 
 
@@ -54,27 +70,6 @@ folium.Marker([-6.312821, 106.861838], popup='<i>Mall Graha Cijantung</i>').add_
 folium.Marker([-6.157329, 106.908704], popup='<i>Mall Kelapa Gading</i>').add_to(maps)
 
 folium.Marker([-6.328956, 106.890288], popup='<i>Kampung Artis</i>').add_to(maps)
-
-
-folium.Marker([-6.196195, 106.829531], popup='<i>Taman Menteng</i>').add_to(maps)
-
-folium.Marker([-6.199388, 106.832670], popup='<i>Taman Suropati</i>').add_to(maps)
-
-folium.Marker([-6.175384, 106.827148], popup='<i>Monumen Nasional</i>').add_to(maps)
-
-folium.Marker([-6.170189, 106.824174], popup='<i>Istana Merdeka</i>').add_to(maps)
-
-folium.Marker([-6.312434, 106.820162], popup='<i>Taman Ragunan</i>').add_to(maps)
-
-folium.Marker([-6.219897, 106.814125], popup='<i>Plaza Semanggi</i>').add_to(maps)
-
-folium.Marker([-6.176579, 106.837442], popup='<i>RSAD Gatot Soebroto</i>').add_to(maps)
-
-folium.Marker([-6.178354, 106.838090], popup='<i>Museum Kebangkitan Nasional</i>').add_to(maps)
-
-folium.Marker([-6.170164, 106.831387], popup='<i>Masjid Istiqlal</i>').add_to(maps)
-
-folium.Marker([-6.123794, 106.831809], popup='<i>Dunia Fantasi</i>').add_to(maps)
 
 
 folium.Marker([-6.134263, 106.813040], popup='<i>Kota Tua</i>').add_to(maps)
@@ -440,21 +435,70 @@ folium.Marker([-6.359527, 106.882870], popup='<i>RM Salero Basamo</i>').add_to(m
 folium.Marker([-6.359754, 106.88311], popup='<i>Charissa. CV</i>').add_to(maps)
 
 
-folium.Marker([-6.129233, 106.942356], popup='<i>PT. Puninar Logistics</i>').add_to(maps)
+folium.RegularPolygonMarker(
+    [-6.129233, 106.942356],
+    popup='PT. Puninar Logistics',
+    fill_color='#769d96',
+    number_of_sides=6,
+    radius=10
+).add_to(maps)
 
-folium.Marker([-6.128734, 106.945408], popup='<i>Warehouse Lazada</i>').add_to(maps)
+folium.RegularPolygonMarker(
+    [-6.128734, 106.945408],
+    popup='Warehouse Lazada',
+    fill_color='#45647d',
+    number_of_sides=8,
+    radius=10
+).add_to(maps)
 
-folium.Marker([-6.104178, 106.958868], popup='<i>Sekolah Tinggi Ilmu Pelayaran</i>').add_to(maps)
+folium.RegularPolygonMarker(
+    [-6.104178, 106.958868],
+    popup='Sekolah Tinggi Ilmu Pelayaran',
+    fill_color='#132b5e',
+    number_of_sides=3,
+    radius=10
+).add_to(maps)
 
-folium.Marker([-6.118411, 106.958118], popup='<i>Akademi Maritim Djadajat</i>').add_to(maps)
+folium.RegularPolygonMarker(
+    [-6.118411, 106.958118],
+    popup='Akademi Maritim Djadajat',
+    fill_color='#45647d',
+    number_of_sides=6,
+    radius=10
+).add_to(maps)
 
-folium.Marker([-6.112190, 106.752829], popup='<i>Rumah Sakit Pantai Indah Kapuk</i>').add_to(maps)
+folium.RegularPolygonMarker(
+    [-6.112190, 106.752829],
+    popup='Rumah Sakit Pantai Indah Kapuk',
+    fill_color='#132b5e',
+    number_of_sides=8,
+    radius=10
+).add_to(maps)
 
-folium.Marker([-6.105336, 106.735580], popup='<i>Taman Wisata Mangrove Angke Kapuk</i>').add_to(maps)
+folium.RegularPolygonMarker(
+    [-6.105336, 106.735580],
+    popup='Taman Wisata Mangrove Angke Kapuk',
+    fill_color='#45647d',
+    number_of_sides=3,
+    radius=10
+).add_to(maps)
 
-folium.Marker([-6.123878, 106.806525], popup='<i>Makam Keramat Habib Husein Luar Batang</i>').add_to(maps)
+folium.RegularPolygonMarker(
+    [-6.123878, 106.806525],
+    popup='Makam Keramat Habib Husein Luar Batang',
+    fill_color='#769d96',
+    number_of_sides=6,
+    radius=10
+).add_to(maps)
 
-folium.Marker([-6.175279, 106.722868], popup='<i>Garuda Indonesia Training Center (GITC)</i>').add_to(maps)
+folium.RegularPolygonMarker(
+    [-6.175279, 106.722868],
+    popup='Garuda Indonesia Training Center (GITC)',
+    fill_color='#45647d',
+    number_of_sides=3,
+    radius=10
+).add_to(maps)
+
 
 folium.Marker([-6.175232, 106.719091], popup='<i>Pondok Pesantren Al-Itqon</i>').add_to(maps)
 
@@ -545,29 +589,6 @@ folium.Marker([-6.239449, 106.882183], popup='<i>Goedang Futsal</i>').add_to(map
 folium.Marker([-6.238810, 106.883201], popup='<i>Jl.Panca Warga Lima No.4</i>').add_to(maps)
 
 
-folium.Marker([-6.364820, 106.834050], popup='<i>Warunk Upnormal</i>').add_to(maps)
-
-folium.Marker([-6.364457, 106.833645], popup='<i>Soerabi Bandung Enhaii</i>').add_to(maps)
-
-folium.Marker([-6.366366, 106.833401], popup='<i>Penyetlicious Resto Penyet</i>').add_to(maps)
-
-folium.Marker([-6.367211, 106.834283], popup='<i>Shop&Drive Margonda2</i>').add_to(maps)
-
-folium.Marker([-6.366996, 106.834193], popup='<i>Pondok Bangladesh</i>').add_to(maps)
-
-folium.Marker([-6.367478, 106.833863], popup='<i>Bamboo Dim Sum</i>').add_to(maps)
-
-folium.Marker([-6.367102, 106.833904], popup='<i>Café Kimung</i>').add_to(maps)
-
-folium.Marker([-6.360775, 106.831710], popup='<i>Universitas Indonesia Train Station</i>').add_to(maps)
-
-folium.Marker([-6.358846, 106.833051], popup='<i>Warung Pasta Depok</i>').add_to(maps)
-
-folium.Marker([-6.358814, 106.832439], popup='<i>Mesinlaundry.com </i>').add_to(maps)
-
-folium.Marker([-6.361749, 106.833725], popup='<i>Zoya Depok</i>').add_to(maps)
-
-
 folium.Marker([-6.350292, 106.839489], popup='<i>Warung ilham</i>').add_to(maps)
 
 folium.Marker([-6.349401, 106.840912], popup='<i>Warung Makan Bu Asti</i>').add_to(maps)
@@ -608,11 +629,6 @@ folium.Marker([-6.2266238,106.8266287], popup='<i>Ranch Market</i>').add_to(maps
 folium.Marker([-6.2273917,106.8260065], popup='<i>The East</i>').add_to(maps)
 
 folium.Marker([-6.2258132,106.8293968], popup='<i>The Ritz Calton</i>').add_to(maps)
-
-
-
-
-
 
 folium.Marker(
     location=[-6.178241, 106.832033],
@@ -674,23 +690,170 @@ folium.Marker(
     icon=folium.Icon(icon='cloud')
 ).add_to(maps)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 maps
+
+
+
+folium.Circle(
+    radius=100,
+    location=[-6.364820, 106.834050],
+    popup='Warunk Upnormal',
+    color='Crimson',
+    fill=False
+).add_to(koor)
+
+folium.Circle(
+    radius=100,
+    location=[-6.366366, 106.833401],
+    popup='Penyetlicious Resto Penyet',
+    color='Crimson',
+    fill=False
+).add_to(koor)
+
+folium.Circle(
+    radius=100,
+    location=[-6.364457, 106.833645],
+    popup='Soerabi Bandung Enhaii',
+    color='Crimson',
+    fill=False
+).add_to(koor)
+
+folium.Circle(
+    radius=100,
+    location=[-6.367211, 106.834283],
+    popup='Shop&Drive Margonda2',
+    color='Crimson',
+    fill=False
+).add_to(koor)
+
+folium.Circle(
+    radius=100,
+    location=[-6.366996, 106.834193],
+    popup='Pondok Bangladesh',
+    color='Crimson',
+    fill=False
+).add_to(koor)
+
+folium.Circle(
+    radius=100,
+    location=[-6.367478, 106.833863],
+    popup='Bamboo Dim Sum',
+    color='Crimson',
+    fill=False
+).add_to(koor)
+
+folium.Circle(
+    radius=100,
+    location=[-6.367102, 106.833904],
+    popup='Café Kimung',
+    color='Crimson',
+    fill=False
+).add_to(koor)
+
+folium.Circle(
+    radius=100,
+    location=[-6.360775, 106.831710],
+    popup='Universitas Indonesia Train Station',
+    color='Crimson',
+    fill=False
+).add_to(koor)
+
+folium.Circle(
+    radius=100,
+    location=[-6.358846, 106.833051],
+    popup='Warung Pasta Depok',
+    color='Crimson',
+    fill=False
+).add_to(koor)
+
+folium.Circle(
+    radius=100,
+    location=[-6.358814, 106.832439],
+    popup='Mesinlaundry.com',
+    color='Crimson',
+    fill=False
+).add_to(koor)
+
+folium.Circle(
+    radius=100,
+    location=[-6.361749, 106.833725],
+    popup='Zoya Depok',
+    color='Crimson',
+    fill=False
+).add_to(koor)
+
+koor
+
+
+folium.Marker(
+    location=[-6.196195, 106.829531],
+    popup='Taman Menteng',
+    icon=folium.Icon(icon='cloud')
+).add_to(gps)
+
+folium.Marker(
+    location=[-6.199388, 106.832670],
+    popup='Taman Suropati',
+    icon=folium.Icon(icon='cloud')
+).add_to(gps)
+
+folium.Marker(
+    location=[-6.175384, 106.827148],
+    popup='Monumen Nasional',
+    icon=folium.Icon(icon='cloud')
+).add_to(gps)
+
+folium.Marker(
+    location=[-6.170189, 106.824174],
+    popup='Istana Merdeka',
+    icon=folium.Icon(icon='cloud')
+).add_to(gps)
+
+folium.Marker(
+    location=[-6.312434, 106.820162],
+    popup='Taman Ragunan',
+    icon=folium.Icon(icon='cloud')
+).add_to(gps)
+
+folium.Marker(
+    location=[-6.219897, 106.814125],
+    popup='Plaza Semanggi',
+    icon=folium.Icon(icon='cloud')
+).add_to(gps)
+
+folium.Marker(
+    location=[-6.176579, 106.837442],
+    popup='RSAD Gatot Soebroto',
+    icon=folium.Icon(icon='cloud')
+).add_to(gps)
+
+folium.Marker(
+    location=[-6.178354, 106.838090],
+    popup='Museum Kebangkitan Nasional',
+    icon=folium.Icon(icon='cloud')
+).add_to(gps)
+
+folium.Marker(
+    location=[-6.170164, 106.831387],
+    popup='Masjid Istiqlal',
+    icon=folium.Icon(icon='cloud')
+).add_to(gps)
+
+folium.Marker(
+    location=[-6.123794, 106.831809],
+    popup='Dunia Fantasi',
+    icon=folium.Icon(icon='cloud')
+).add_to(gps)
+
+gps
+
+
+save(maps,'1.html')
+save(koor,'2.html')
+save(gps,'3.html')
+
 #kata maps dengan sangat hormat jangan dihapus kampreeeet! 
 #pendeklarasian diubah menjadi maps biar ada bedanya sama kelompok lain jadi yang lain menyesuaikan yah, ok!
 #kawan-kawan diperhatikan lagi yah kalau udah ada spot yang tercantum jangan dicantumin lagi biar gak redudansi
 #dan commit minimal 10 koordinat setiap hari jangan kurang pokoknya okesip!
+#maaf sebelumnya akbar edit filenya yah soalnya mau gunain fungsi.
